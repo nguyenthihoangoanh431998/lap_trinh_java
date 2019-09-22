@@ -107,7 +107,6 @@ public class Bai_5 extends JFrame {
             }
         });
 
-        //
         add(app);
     }
 
